@@ -31,4 +31,7 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+
+    //lib
+    implementation 'com.github.pedroSG94.rtmp-rtsp-stream-client-java:encoder:1.8.4'
 }

@@ -8,3 +8,5 @@
 <p>Host port: 1935</p>
 <p>Source name: client57564</p>
 <p>Source pass: f5bdd5e3</p>
+
+![Server](drawable/Server_Livestream.jpg)
