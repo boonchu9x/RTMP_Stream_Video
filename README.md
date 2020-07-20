@@ -9,4 +9,4 @@
 <p>Source name: client57564</p>
 <p>Source pass: f5bdd5e3</p>
 
-![Server](images/Server_Livestream.jpg)
+![Server](/images/Server_Livestream.jpg)
